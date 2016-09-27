@@ -53,9 +53,13 @@ Node-RED能够在多种平台上运行, 从多种网络设备到云端. 以下�
 如果有其他问题,建议或是打个招呼,欢迎使用下列各种方式:
 
 订阅[邮件列表](https://groups.google.com/forum/#!forum/node-red)和[博客](http://blog.nodered.org/)更新.
+
 在[Slack](http://nodered.org/slack/)上加入我们.
+
 Join us on Slack
+
 在Twitter上关注[@nodered](http://twitter.com/nodered)
+
 
 当提交bugs或者是提问时,请尽量包含所使用的操作系统,Node.js和Node-RED的版本. 它们可以在Node-RED启动后的控制台输出中查看:
 
