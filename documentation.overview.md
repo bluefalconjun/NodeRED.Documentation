@@ -56,8 +56,6 @@ Node-RED能够在多种平台上运行, 从多种网络设备到云端. 以下�
 
 在[Slack](http://nodered.org/slack/)上加入我们.
 
-Join us on Slack
-
 在Twitter上关注[@nodered](http://twitter.com/nodered)
 
 
