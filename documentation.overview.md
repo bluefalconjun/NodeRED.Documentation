@@ -17,7 +17,7 @@
  - [增加节点](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.addingnodes.md)
  - [升级](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.upgrading.md)
  - [创建你的第一个工作流程](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.firstflow.md)
- - [创建你的第二个工作流程](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.secflow.md)
+ - [创建你的进阶流程](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.secflow.md)
  - [树莓派(Raspberry Pi)用户直接戳这里](test)
 
 -----
