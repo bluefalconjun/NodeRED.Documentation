@@ -12,12 +12,12 @@
 
 以下指导将帮助你在数分钟内(**`看你是不是老司机了`**)安装和运行Node-RED.
 
- - [安装]()
- - [运行]()
- - [增加节点]()
- - [升级]()
- - [创建你的第一个工作流程]()
- - [创建你的第二个工作流程](test)
+ - [安装](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.installation.md)
+ - [运行](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.running.md)
+ - [增加节点](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.addingnodes.md)
+ - [升级](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.upgrading.md)
+ - [创建你的第一个工作流程](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.firstflow.md)
+ - [创建你的第二个工作流程](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.secflow.md)
  - [树莓派(Raspberry Pi)用户直接戳这里](test)
 
 -----
