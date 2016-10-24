@@ -10,7 +10,7 @@
 -----
 > **第一步**
 
-以下指导将帮助你在数分钟内(**`看你是不是老司机了`**)安装和运行Node-RED.
+以下指导将帮助你在数分钟内(**`看你的`**)安装和运行Node-RED.
 
  - [安装](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.installation.md)
  - [运行](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.running.md)
