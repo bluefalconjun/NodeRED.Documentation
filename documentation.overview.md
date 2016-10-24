@@ -17,7 +17,7 @@
  - [增加节点](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.addingnodes.md)
  - [升级](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.upgrading.md)
  - [创建你的第一个工作流程](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.firstflow.md)
- - [创建你的第二个工作流程](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.secflow.md)
+ - [创建你的进阶工作流程](https://github.com/bluefalconjun/NodeRED.Documentation/blob/master/getstarted.secflow.md)
 
  - [树莓派(Raspberry Pi)用户直接戳这里](http://nodered.org/docs/hardware/raspberrypi)
  **`老司机说: 树莓派用户就不需要翻译了吧...`**
